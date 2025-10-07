@@ -13,7 +13,8 @@ Neste exemplo, criamos duas structs principais:
     Endereco: representa os endereços associados ao cliente.
 
 📦 Definição das Structs
-elixir```
+
+```elixir
 defmodule ExStruct.Domain.Entity.Cliente do
     @enforce [:id]
     defstruct [:id, :nome, :email, ativo: true, papel: "admin", enderecos: []]
