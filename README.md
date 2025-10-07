@@ -1,9 +1,11 @@
 📘 Estudo de Structs em Elixir
 
 Este repositório tem como objetivo demonstrar o uso de structs em Elixir, com foco na modelagem de dados de clientes e seus endereços.
+
 🚀 O que são Structs?
 
 Structs são uma forma de criar estruturas de dados com campos nomeados e valores padrão. Elas são baseadas em mapas, mas oferecem validação de chave e são associadas a módulos específicos.
+
 🧱 Exemplo de Structs
 
 Neste exemplo, criamos duas structs principais:
